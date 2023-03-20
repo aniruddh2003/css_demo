@@ -1,0 +1,6 @@
+.caro {
+    display: grid;
+    place-items: center;
+    border-radius: 2rem;
+    overflow: hidden;
+}

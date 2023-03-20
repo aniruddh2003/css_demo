@@ -1,0 +1,12 @@
+.round {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 125px;
+    height: 125px;
+}
+
+.round img {
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+}
